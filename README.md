@@ -44,5 +44,3 @@ The goal was to analyze multi-year sales and cost data, generate key business in
 
 ---
 
-    └── Data_Model_Diagram.png  
-    └── Feature_Engineering_Steps.md  
